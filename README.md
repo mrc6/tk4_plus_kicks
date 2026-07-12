@@ -4,21 +4,27 @@ Learn about tk4 here: https://wotho.pebble-beach.ch/tk4-/
 Learn about kicks here: https://www.kicksfortso.com/   
 
 # How to use    
-Start tk4, logon as HERC01 user, press F3 until go back to READY as showed below:   
-  IMAGE1  
+Download the file tk4_plus_kicks.zip and extract it into a folder.    
+Start tk4, logon as HERC01 user, press F3 until go back to READY    
 Exec the following command:   
-exec kickssys.v1r5m0.clist(kicks)   
-  IMAGE2     
+**exec kickssys.v1r5m0.clist(kicks)**   
+    
+  ![Exec Kicks](https://github.com/mrc6/tk4_plus_kicks/blob/main/images/exec_kicks.png)     
 ENTER twice    
-  IMAGE3    
+    
+  ![Kicks Logo](https://github.com/mrc6/tk4_plus_kicks/blob/main/images/kicks_logo.png)   
 CLEAR() key ( in my case alt+c)   
-KEDF   
+**KEDF**   
 You can try an example    
-Clear() key, INQ1    
-  IMAGE4    
-  IMAGE5    
-To finish the session use the command KSSF    
-  IMAGE6    
+Clear() key, **INQ1**    
+      
+  ![Using Demo](https://github.com/mrc6/tk4_plus_kicks/blob/main/images/kicks_demo.png)  
+      
+  ![Demo result](https://github.com/mrc6/tk4_plus_kicks/blob/main/images/kicks_demo_result.png)    
+      
+To finish the session use the command **KSSF**    
+    
+  ![Exiting](https://github.com/mrc6/tk4_plus_kicks/blob/main/images/kicks_demo_exit.png)  
 
           
   By Marcob
