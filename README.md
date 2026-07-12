@@ -4,7 +4,7 @@ Learn about tk4 here: https://wotho.pebble-beach.ch/tk4-/
 Learn about kicks here: https://www.kicksfortso.com/   
 
 # How to use    
-Download the file tk4_plus_kicks.zip and extract it into a folder.    
+Download the file [tk4_plus_kicks.zip](https://www.dropbox.com/scl/fi/06kh4wrwx73a7r7lzlsuj/tk4_plus_kicks.zip?rlkey=8ztl1qg9v0w5va6w48i01g9mi&st=vus1and3&dl=0) and extract it into a folder.    
 Start tk4, logon as HERC01 user, press F3 until go back to READY    
 Exec the following command:   
 **exec kickssys.v1r5m0.clist(kicks)**   
